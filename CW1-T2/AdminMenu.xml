@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Menu>
+  <List>
+    <menuitem>1.  Take Off - (Stack)</menuitem>
+    <menuitem>2.  Take Off - (Priority Queue)</menuitem>
+    <menuitem>3.  Land - (Stack)</menuitem>
+    <menuitem>4.  Land - (Priority Queue)</menuitem>
+    <menuitem>4.  Exit</menuitem>
+  </List>
+</Menu>

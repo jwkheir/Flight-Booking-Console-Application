@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Flights>
+  
+  <Flight>
+    <item attr="std">0900</item>
+    <item attr="flight">WN269</item>
+    <item attr="destination">London</item>
+    <item attr="check-in">A07</item>
+    <item attr="status">09:00am</item>
+  </Flight>
+  
+  <Flight>
+    <item attr="std">1000</item>
+    <item attr="flight">WN369</item>
+    <item attr="destination">Manchester</item>
+    <item attr="check-in">A08</item>
+    <item attr="status">10:00am</item>
+  </Flight>
+  
+  <Flight>
+    <item attr="std">0800</item>
+    <item attr="flight">WN469</item>
+    <item attr="destination">Liverppol</item>
+    <item attr="check-in">A08</item>
+    <item attr="status">08:00am</item>
+  </Flight>
+  
+  <Flight>
+    <item attr="std">1100</item>
+    <item attr="flight">WN569</item>
+    <item attr="destination">Birmingham</item>
+    <item attr="check-in">A08</item>
+    <item attr="status">11:00am</item>
+  </Flight>
+
+  <Flight>
+    <item attr="std">1300</item>
+    <item attr="flight">WN469</item>
+    <item attr="destination">Glasgow</item>
+    <item attr="check-in">A08</item>
+    <item attr="status">13:00pm</item>
+  </Flight>
+
+  <Flight>
+    <item attr="std">1200</item>
+    <item attr="flight">WN469</item>
+    <item attr="destination">Edinburgh</item>
+    <item attr="check-in">A08</item>
+    <item attr="status">12:00am</item>
+  </Flight>
+
+  <Flight>
+    <item attr="std">1330</item>
+    <item attr="flight">WN469</item>
+    <item attr="destination">Isle Of Man</item>
+    <item attr="check-in">A08</item>
+    <item attr="status">13:30pm</item>
+  </Flight>
+
+  <Flight>
+    <item attr="std">1240</item>
+    <item attr="flight">WN469</item>
+    <item attr="destination">Newquay</item>
+    <item attr="check-in">A08</item>
+    <item attr="status">12:40pm</item>
+  </Flight>
+</Flights>

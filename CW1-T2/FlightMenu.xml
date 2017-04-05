@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Menu>
+  <List>
+    <menuitem>1.  Confirm and Print Boarding Pass</menuitem>
+    <menuitem>2.  Amend Booking</menuitem>
+    <menuitem>3.  Cancel Transaction</menuitem>
+  </List>
+</Menu>

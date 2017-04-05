@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Menu>
+  <List>
+    <menuitem>1.  Book Flight (Will Automatically Check-In the passenger)</menuitem>
+    <menuitem>2.  Return Main Menu</menuitem>
+  </List>
+</Menu>

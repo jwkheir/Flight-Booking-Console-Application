@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Menu>
+  <List>
+    <menuitem>1.  List Flights - Lists all flights Today</menuitem>
+    <menuitem>2.  Search For A Flight - Requires a flight number</menuitem>
+    <menuitem>3.  Board Passenger (Priority Queue)</menuitem>
+    <menuitem>4.  Board All Passengers (Priority Queue)</menuitem>
+    <menuitem>5.  Deboard All Passengers (Stack and Priority Queue)</menuitem>
+    <menuitem>7.  Exit</menuitem>
+  </List>
+</Menu>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Menu>
+  <List>
+    <menuitem>1.  Login As Flight Clerk (List, Search and Book Flights)</menuitem>
+    <menuitem>2.  Login As Admin (Board and Unboard Passengers)</menuitem>
+  </List>
+</Menu>
